@@ -1,10 +1,15 @@
-# AI Patent Search
+# 🌐 Zion App Network — Interlinks
 
-Intellectual property research and novelty analysis.
+**ai-patent-search** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-legal-advisor](https://github.com/Zion-support/ai-legal-advisor) · [ai-legal-intelligence](https://github.com/Zion-support/ai-legal-intelligence) · [ai-deep-research](https://github.com/Zion-support/ai-deep-research) · [ai-document-search](https://github.com/Zion-support/ai-document-search)
+- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [ai-neural-search](https://github.com/Zion-support/ai-neural-search) — semantic vector search
+- [ai-document-search](https://github.com/Zion-support/ai-document-search) — semantic document retrieval
+- [ai-legal-advisor](https://github.com/Zion-support/ai-legal-advisor) — contract & compliance guidance
+- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
