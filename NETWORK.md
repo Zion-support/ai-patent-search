@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Patent Search
 
-**ai-patent-search** is part of the Zion Tech Group app network (630+ apps).
+Intellectual property research and novelty analysis.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-legal-advisor](https://github.com/Zion-support/ai-legal-advisor) · [ai-legal-intelligence](https://github.com/Zion-support/ai-legal-intelligence) · [ai-deep-research](https://github.com/Zion-support/ai-deep-research) · [ai-document-search](https://github.com/Zion-support/ai-document-search)
 
-## Related apps
-- [ai-legal-advisor](https://github.com/Zion-support/ai-legal-advisor) — Legal advice and compliance guidance
-- [ai-deep-research](https://github.com/Zion-support/ai-deep-research) — Deep research engine
-- [ai-document-search](https://github.com/Zion-support/ai-document-search) — Semantic document search
-- [ai-contract-reviewer](https://github.com/Zion-support/ai-contract-reviewer) — Clause extraction & risk flags
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
